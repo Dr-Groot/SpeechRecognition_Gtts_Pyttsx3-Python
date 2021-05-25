@@ -5,3 +5,4 @@
 + [Text to Speech using GTTS with AudioBook Tip](text_to_speech_gtts.py)
 + [Speaking Dail Numbers using GTTS](speaking_dailnumber.py)
 + [Text to Speech using Pyttsx3 With Guide how to control Various Functions](text_to_speech_pyttsx3.py)
++ [Computer Speaks what we want using Pyttsx3](computer_speak_pyttsx3.py)
