@@ -8,6 +8,9 @@ import os
 # setting up language
 language = "en"
 
+# we can directly add number in mytext in form of string but it is just practice
+# program how to convert number in text form and then speak
+
 # getting number from the user
 n = int(input("Enter the number"))
 
