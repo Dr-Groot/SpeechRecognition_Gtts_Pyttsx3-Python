@@ -30,4 +30,4 @@ os.system("start audio.mp3")
 # myText = f.read().replace("\n", " ")
 # and add " f.close() "  on line 19
 
-# Important : stay connected to internet while running this program
+# Important : stay connected to internet while running this program.
