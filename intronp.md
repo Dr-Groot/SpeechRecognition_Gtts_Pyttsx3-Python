@@ -13,3 +13,5 @@ It also has functions for working in domain of linear algebra, fourier transform
 
 NumPy aims to provide an array object that is up to 50x faster than traditional Python lists. Lists that serve the purpose of arrays, but they are slow to process.
 
+
+
