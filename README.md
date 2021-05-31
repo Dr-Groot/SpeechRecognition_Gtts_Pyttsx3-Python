@@ -7,7 +7,8 @@
 ![image](https://user-images.githubusercontent.com/63160825/120182409-faadab80-c22b-11eb-8869-eedabe1bf283.png)
 
 
-## TOPICS
+## PYTHON NUMPY
++ [INTRODUCTION](intro.md)
 
 ## PRACTICE 
 
