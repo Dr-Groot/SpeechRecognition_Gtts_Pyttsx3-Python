@@ -1,13 +1,16 @@
-# Hi 👋, I'm Aman Pratap Singh (Dr.Groot)
-#          It's All About PYTHON
+# PYTHON by Dr.Groot
+---
+> Follow us on [Instagram](https://www.instagram.com/datascience.drgroot/) || 
+> Follow us on [Twitter](https://twitter.com/DrGroot7) || 
+> Follow us on [GitHub](https://github.com/Dr-Groot)
 
-## Various Questions and Topics Related to python
+![image](https://user-images.githubusercontent.com/63160825/120182409-faadab80-c22b-11eb-8869-eedabe1bf283.png)
 
-+ [Python Function where we can pass n Values and of Any Data Type](infinitepassfun.py)
-+ [Text to Speech using GTTS with AudioBook Tip](text_to_speech_gtts.py)
-+ [Speaking Dail Numbers using GTTS](speaking_dailnumber.py)
-+ [Text to Speech using Pyttsx3 With Guide how to control Various Functions](text_to_speech_pyttsx3.py)
-+ [Computer Speaks what we want using Pyttsx3](computer_speak_pyttsx3.py)
 
-## Python-Matplotlib
-+ [Plotting Graph using Matplotlib with Guide](plot.py)
+## TOPICS
+
+## PRACTICE 
+
+
+---
+> Lets Contribute and Make it Better [NOW](https://github.com/Dr-Groot). || Get In Touch :  amanpratapsingh909090@gmail.com
