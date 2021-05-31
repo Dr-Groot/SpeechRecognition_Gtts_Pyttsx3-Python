@@ -8,6 +8,9 @@
 
 
 ## PYTHON-NUMPY
+
+![image](https://user-images.githubusercontent.com/63160825/120188149-621b2980-c233-11eb-8868-e4f5ccada03d.png)
+
 + [INTRODUCTION](intronp.md)
 
 ## PRACTICE 
