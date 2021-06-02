@@ -14,5 +14,5 @@ NumPy is a Python library used for working with arrays.It is a library consistin
 
 NumPy aims to provide an array object that is up to 50x faster than traditional Python lists. Lists that serve the purpose of arrays, but they are slow to process.
 
-
+The array object in NumPy is called **ndarray**, it provides a lot of supporting functions that make working with ndarray very easy.
 
