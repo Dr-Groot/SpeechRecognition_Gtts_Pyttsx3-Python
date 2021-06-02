@@ -25,4 +25,26 @@ Upgrading NumPy:
 pip install --upgrade numpy
 ```
 
+## Importing and Alias
 
+Once NumPy is installed, import it in your applications by adding the **import** keyword:
+```python
+import numpy
+```
+
+NumPy is usually imported under the np alias.
+
+>  In Python alias are an alternate name for referring to the same thing.
+
+Create an alias with the as keyword while importing:
+```python
+import numpy as np
+```
+
+Now, we can refer NumPy package as **np** instead of **NumPy**
+
+<br />
+
+[HOME](README.md)
+
+[< PREVIOUS](intronp.md) || [NEXT >](ndarraynp.md)
