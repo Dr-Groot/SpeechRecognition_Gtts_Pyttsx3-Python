@@ -32,6 +32,7 @@
 ![image](https://user-images.githubusercontent.com/63160825/120882485-dff58100-c5f5-11eb-82e4-33176b421c94.png)
 
 + [CONVERTING THE NUMBER INTO WORD](e_numbertowords.md)
++ [PASSING INFINTE VALUE OF ANY DATA TYPE](e_infintepassingvalues.md)
 
 <br />
 
