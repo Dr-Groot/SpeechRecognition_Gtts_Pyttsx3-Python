@@ -1,4 +1,4 @@
-# Converting Number Into Words
+# CONVERTING NUMBERS INTO WORDS
 
 ```python
 # getting number from the user
@@ -25,3 +25,7 @@ while rnum != 0:
 
 print("Number in words: ", st)
 ```
+
+THANK YOU.
+
+[HOME](README.md)
