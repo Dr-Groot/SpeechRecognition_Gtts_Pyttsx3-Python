@@ -12,8 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/63160825/120882425-737a8200-c5f5-11eb-906b-e9ff7cda9bf4.png)
 
-+ [Text To Speech using gTTS](tts_gtts.md)
-+ [Text To Speech using Pyttsx3](tts_pyttsx3.md)
++ [TEXT TO SPEECH USING GTTS](tts_gtts.md)
++ [TEXT TO SPEECH USING PYTTSX3](tts_pyttsx3.md)
 
 
 <br />
@@ -30,6 +30,8 @@
 ## PYTHON - EXTRA
 
 ![image](https://user-images.githubusercontent.com/63160825/120882485-dff58100-c5f5-11eb-82e4-33176b421c94.png)
+
++ [CONVERTING THE NUMBER INTO WORD](e_numbertowords.md)
 
 <br />
 
