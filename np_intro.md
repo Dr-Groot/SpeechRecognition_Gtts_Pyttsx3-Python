@@ -1,4 +1,4 @@
-[NEXT >](startnp.md)
+[NEXT >](np_start.md)
 
 # NUMPY INTRODUCTION
 
@@ -41,4 +41,4 @@ NumPy is often used along with packages like SciPy (Scientific Python) and Matâˆ
 
 [HOME](README.md)
 
-[NEXT >](startnp.md)
+[NEXT >](np_start.md)
