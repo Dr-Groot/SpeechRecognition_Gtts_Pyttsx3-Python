@@ -9,7 +9,8 @@
 
 ## PYTHON - TEXT TO SPEECH
 
-![image](https://user-images.githubusercontent.com/63160825/120882377-f949fd80-c5f4-11eb-945f-4c4fb45508e8.png)
+![image](https://user-images.githubusercontent.com/63160825/120882425-737a8200-c5f5-11eb-906b-e9ff7cda9bf4.png)
+
 
 
 
