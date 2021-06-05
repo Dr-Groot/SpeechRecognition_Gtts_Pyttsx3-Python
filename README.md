@@ -6,6 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/63160825/120182409-faadab80-c22b-11eb-8869-eedabe1bf283.png)
 
+<br />
 
 ## PYTHON - TEXT TO SPEECH
 
@@ -13,6 +14,7 @@
 
 + [Text To Speech using gTTS](tts_gtts.md)
 
+<br />
 
 ## PYTHON - NUMPY
 
@@ -21,12 +23,13 @@
 + [INTRODUCTION](intronp.md)
 + [GETTING STARTED WITH ENVIRONMENT](startnp.md)
 
+<br />
 
 ## PYTHON - EXTRA
 
 ![image](https://user-images.githubusercontent.com/63160825/120882485-dff58100-c5f5-11eb-82e4-33176b421c94.png)
 
-
+<br />
 
 ## PRACTICE 
 
