@@ -28,7 +28,7 @@
 
 ## PRACTICE 
 
-![image](https://user-images.githubusercontent.com/63160825/120882661-d6b8e400-c5f6-11eb-83db-8c3648b59890.png)
+![image](https://user-images.githubusercontent.com/63160825/120882876-e258da80-c5f7-11eb-844e-2a490f46de1a.png)
 
 
 ---
