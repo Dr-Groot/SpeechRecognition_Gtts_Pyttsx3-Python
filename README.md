@@ -11,6 +11,8 @@
 
 ![image](https://user-images.githubusercontent.com/63160825/120882425-737a8200-c5f5-11eb-906b-e9ff7cda9bf4.png)
 
++ [Text To Speech using gTTS](tts_gtts.md)
+
 
 ## PYTHON - NUMPY
 
