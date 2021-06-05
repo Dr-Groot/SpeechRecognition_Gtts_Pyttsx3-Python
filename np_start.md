@@ -1,4 +1,4 @@
-[< PREVIOUS](intronp.md) || [NEXT >](ndarraynp.md)
+[< PREVIOUS](np_intro.md) || [NEXT >](np_ndarray.md)
 
 # GETTING STARTED WITH ENVIRONMENT
 
@@ -47,4 +47,4 @@ Now, we can refer NumPy package as **np** instead of **NumPy**
 
 [HOME](README.md)
 
-[< PREVIOUS](intronp.md) || [NEXT >](ndarraynp.md)
+[< PREVIOUS](np_intro.md) || [NEXT >](np_ndarray.md)
