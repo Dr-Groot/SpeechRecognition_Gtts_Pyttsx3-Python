@@ -12,14 +12,19 @@
 ![image](https://user-images.githubusercontent.com/63160825/120882425-737a8200-c5f5-11eb-906b-e9ff7cda9bf4.png)
 
 
-
-
-## PYTHON-NUMPY
+## PYTHON - NUMPY
 
 ![image](https://user-images.githubusercontent.com/63160825/120188149-621b2980-c233-11eb-8868-e4f5ccada03d.png)
 
 + [INTRODUCTION](intronp.md)
 + [GETTING STARTED WITH ENVIRONMENT](startnp.md)
+
+
+## PYTHON - EXTRA
+
+![image](https://user-images.githubusercontent.com/63160825/120882485-dff58100-c5f5-11eb-82e4-33176b421c94.png)
+
+
 
 ## PRACTICE 
 
