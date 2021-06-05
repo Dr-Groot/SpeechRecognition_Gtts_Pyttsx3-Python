@@ -28,6 +28,8 @@
 
 ## PRACTICE 
 
+![image](https://user-images.githubusercontent.com/63160825/120882661-d6b8e400-c5f6-11eb-83db-8c3648b59890.png)
+
 
 ---
 > Lets Contribute and Make it Better [NOW](https://github.com/Dr-Groot). || Get In Touch :  amanpratapsingh909090@gmail.com
