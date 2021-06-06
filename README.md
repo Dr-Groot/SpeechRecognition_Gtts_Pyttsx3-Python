@@ -14,6 +14,7 @@
 
 + [TEXT TO SPEECH USING GTTS](tts_gtts.md)
 + [TEXT TO SPEECH USING PYTTSX3](tts_pyttsx3.md)
++ [DESIGNING AUDIO BOOK WITH GTTS AND PYTTSX3](tts_audiobook.md)
 
 
 <br />
