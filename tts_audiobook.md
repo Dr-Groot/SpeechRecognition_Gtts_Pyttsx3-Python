@@ -8,7 +8,7 @@ while readings of a shorter version are an abridgement.
 Before going further we need to know how its work, basically we need a **text file** or you can get any article or book in **.txt** format. Then we will get that file
 set in read mode using **File Handling**. After setting up then we convert the text into a audio file with the help of [Gtts](tts_gtts.md) or with [Pyttsx3](tts_pyttssx3.md).
 
-I will show you with both the ways, but if you haven't having much understaning in Pyttsx3 and Gtts then go with these links: 
+I will show you with both the ways, but if you have not much understaning in Pyttsx3 and Gtts then go with these links: 
 + For Gtts [Click Here](tts_gtts.md)
 + For Pyttsx3 [Click Here](tts_pyttsx3.md)
 
